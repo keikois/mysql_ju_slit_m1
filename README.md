@@ -13,7 +13,7 @@ mysql_ju_slit
 ```
 - ターミナルで下記のコードを実行
 ```
-git clone https://github.com/keikois/mysql_ju_slit.git
+git clone git@github.com:keikois/mysql_ju_slit_m1.git
 ```
 ```
 cd mysql_ju_slit　
