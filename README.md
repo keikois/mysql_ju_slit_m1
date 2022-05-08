@@ -5,7 +5,7 @@ jupyterlabとMySQL&amp;phpMyAdminとstreamlitがセットになったdocker-comp
 
 ## 使い方
 ```
-mysql_ju_slit
+mysql_ju_slit_m1
 ├── db => (MySQLのデータ保存場所)
 ├── work => （jupyterlabのコードを保存する場所）
 ├── struns => (streamlitを実行するapp.pyを入れる場所。必要に応じ、requirements.txtも、ここにおいてください。)       
@@ -16,7 +16,7 @@ mysql_ju_slit
 git clone git@github.com:keikois/mysql_ju_slit_m1.git
 ```
 ```
-cd mysql_ju_slit　
+cd mysql_ju_slit_m1
 ```
 ```
 docker-compose up -d
